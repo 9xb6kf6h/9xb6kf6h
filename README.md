@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p> <img src=https://komarev.com/ghpvc/?username=9xb6kf6h alt=9xb6kf6h/> </p>
+
 <!--
 **9xb6kf6h/9xb6kf6h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
